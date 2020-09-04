@@ -21,9 +21,5 @@
     "tsconfig-paths": "3.9.0",
     "typescript": "3.9.5"
   },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@farpoint.get-ag.com:7999/pl/pvg-react.git"
-  },
   "license": "MIT"
 }
